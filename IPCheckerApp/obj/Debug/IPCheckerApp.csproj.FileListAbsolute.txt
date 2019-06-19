@@ -1,0 +1,14 @@
+C:\Users\Санжар\source\repos\IPCheckerApp\IPCheckerApp\bin\Debug\IPCheckerApp.exe
+C:\Users\Санжар\source\repos\IPCheckerApp\IPCheckerApp\bin\Debug\IPCheckerApp.pdb
+C:\Users\Санжар\source\repos\IPCheckerApp\IPCheckerApp\obj\Debug\IPCheckerApp.csprojResolveAssemblyReference.cache
+C:\Users\Санжар\source\repos\IPCheckerApp\IPCheckerApp\obj\Debug\MainWindow.g.cs
+C:\Users\Санжар\source\repos\IPCheckerApp\IPCheckerApp\obj\Debug\App.g.cs
+C:\Users\Санжар\source\repos\IPCheckerApp\IPCheckerApp\obj\Debug\IPCheckerApp_MarkupCompile.cache
+C:\Users\Санжар\source\repos\IPCheckerApp\IPCheckerApp\obj\Debug\IPCheckerApp_MarkupCompile.lref
+C:\Users\Санжар\source\repos\IPCheckerApp\IPCheckerApp\obj\Debug\MainWindow.baml
+C:\Users\Санжар\source\repos\IPCheckerApp\IPCheckerApp\obj\Debug\IPCheckerApp.g.resources
+C:\Users\Санжар\source\repos\IPCheckerApp\IPCheckerApp\obj\Debug\IPCheckerApp.Properties.Resources.resources
+C:\Users\Санжар\source\repos\IPCheckerApp\IPCheckerApp\obj\Debug\IPCheckerApp.csproj.GenerateResource.Cache
+C:\Users\Санжар\source\repos\IPCheckerApp\IPCheckerApp\obj\Debug\IPCheckerApp.csproj.CoreCompileInputs.cache
+C:\Users\Санжар\source\repos\IPCheckerApp\IPCheckerApp\obj\Debug\IPCheckerApp.exe
+C:\Users\Санжар\source\repos\IPCheckerApp\IPCheckerApp\obj\Debug\IPCheckerApp.pdb
